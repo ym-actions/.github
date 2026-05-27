@@ -8,8 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ym-actions/.github/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ym-actions/.github?style=flat-square&color=blue" alt="License" /></a>
-
-<a href="https://github.com/ym-actions"><img src="https://img.shields.io/badge/workflows-reusable-success?style=flat-square&color=8A2BE2" alt="Reusable Workflows" /></a>
+  <a href="https://github.com/ym-actions"><img src="https://img.shields.io/badge/workflows-reusable-success?style=flat-square&color=8A2BE2" alt="Reusable Workflows" /></a>
 
 </p>
 
